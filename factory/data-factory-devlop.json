@@ -1,0 +1,9 @@
+{
+	"name": "data-factory-devlop",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9e9c2533-ee9f-4910-9541-a439e3523123",
+		"tenantId": "38ddf381-cd1c-4310-9930-7a7ac084e97a"
+	}
+}
